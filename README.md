@@ -3,10 +3,10 @@ This repository contains the source code for the E-Market React Native App.
 
 ## Screenshots
 <div>
-    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/1.png" width="25%">
-    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/2.png" width="25%">
-    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/3.png" width="25%">
-    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/4.png" width="25%">
+    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/1.png" width="24%">
+    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/2.png" width="24%">
+    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/3.png" width="24%">
+    <img src="https://github.com/muammertopcu/RN-market/blob/main/src/assets/screenshots/4.png" width="24%">
 </div>
 
 ## Getting Started
